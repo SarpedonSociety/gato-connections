@@ -8,7 +8,7 @@ Part of the Sarpedon Society's Gato-class prosopography. Served at sarpedon.org/
 
 This public build carries no names and no service numbers. Shared plankowners are identified only by their cohort ID (GAT-001 to GAT-192), with their boats, dates and ratings. The source rosters are kept privately and are not part of this repository.
 
-The cross-reference is computed and still under verification against the primary sources.
+Every commissioning claim for the cohort has been verified against its boat's primary source. Biographical research on each man is under way.
 
 ## Sources
 
